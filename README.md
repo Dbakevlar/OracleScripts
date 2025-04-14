@@ -39,8 +39,8 @@ These scripts are provided "as is" with no warranty. Please test thoroughly in a
 
 📬 Stay Connected
 For more scripts, tutorials, and database tips, visit:
-👉 [Your Blog Name or URL]
-Or follow me on [Twitter/LinkedIn/etc.]
+👉 https://dbakevlar.com
+Or follow me on https://www.linkedin.com/in/kellyngorman/
 
 📝 License
 This repository is licensed under the MIT License.
