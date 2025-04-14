@@ -1,7 +1,7 @@
 # OracleScripts
 Oracle Scripts
 
-This GitHub repository contains Oracle database scripts referenced in blog posts on [Your Blog Name or URL]. These scripts are provided to support readers who want to explore the examples, demos, and utilities discussed in the blog.
+This GitHub repository contains Oracle database scripts referenced in blog posts on https://dbakevlar.com. These scripts are provided to support readers who want to explore the examples, demos, and utilities discussed in the blog.
 
 📁 Repository Structure
 Each folder or file is named after the blog post or topic it supports. Inside, you will find:
